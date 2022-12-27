@@ -1,1 +1,9 @@
-
+ <1>
+   <id>1</id>
+   <title>the application stops after entering incorrect value in the search bar</title>
+   <environment>Redmi Note 8pro, Android 11</environment>
+   <STR>1.Open the apps; 2.Tap on search bar; 3.Enter incorrect value</STR>
+   <ER>Search results displayed according to entering data</ER>
+<AR>The app crashes</AR>
+<Attachments>Video</Attachments>
+</1>
